@@ -7,3 +7,11 @@ Evliya Çelebi (1611-1685)  for remapping uncharted territories of the physical 
 Ottoman urban geography to elucidate some of the unexplored aspects of the landscape as a product of
 physical and cultural human conception and allow comparative perspectives towards a new research field
 that creates a link between integrated values of space and cultural heritage.
+
+The NLP techniques
+
+* Information Extraciton
+* Tokenizetion
+* Ngrams analysis
+* Semantic Models 
+
